@@ -1,0 +1,5 @@
+Library/
+.vs/
+SQLite4Unity.Editor.Plugins.csproj
+SQLite4Unity.Plugins.csproj
+SQLite4Unity.sln
